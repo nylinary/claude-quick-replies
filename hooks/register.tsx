@@ -6,6 +6,7 @@ const REPLIES: ReadonlyArray<{ label: string; text: string }> = [
   { label: 'Да', text: 'Да' },
   { label: 'Нет', text: 'Нет' },
   { label: 'Делай', text: 'Делай' },
+  { label: 'Готово', text: 'Готово' },
   { label: 'Продолжай', text: 'Продолжай' },
   { label: 'Деплой', text: 'Деплой' },
 ]
