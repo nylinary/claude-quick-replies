@@ -2,11 +2,12 @@ import type { Register } from 'claude-code'
 
 // Edit this list: label is shown on the button, text is what gets sent.
 const REPLIES: ReadonlyArray<{ label: string; text: string }> = [
-  { label: 'ок', text: 'ок' },
-  { label: 'да', text: 'да' },
-  { label: 'нет', text: 'нет' },
-  { label: 'продолжай', text: 'продолжай' },
-  { label: 'деплой', text: 'деплой' },
+  { label: 'Ок', text: 'Ок' },
+  { label: 'Да', text: 'Да' },
+  { label: 'Нет', text: 'Нет' },
+  { label: 'Делай', text: 'Делай' },
+  { label: 'Продолжай', text: 'Продолжай' },
+  { label: 'Деплой', text: 'Деплой' },
 ]
 
 export const register: Register = on => {
