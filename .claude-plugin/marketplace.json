@@ -1,0 +1,7 @@
+{
+  "name": "quick-replies",
+  "owner": { "name": "nylinary" },
+  "plugins": [
+    { "name": "quick-replies", "source": "./", "description": "A row of quick-reply buttons above the prompt: one press sends the phrase." }
+  ]
+}

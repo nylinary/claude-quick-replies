@@ -1,0 +1,7 @@
+{
+  "name": "quick-replies",
+  "version": "0.1.0",
+  "description": "A row of quick-reply buttons above the prompt: one press sends the phrase.",
+  "author": { "name": "nylinary" },
+  "license": "MIT"
+}
